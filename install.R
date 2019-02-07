@@ -1,5 +1,5 @@
 
 install.packages("tidyverse")
-install.packages("readxl")
 install.packages("IRkernel")
 IRkernel::installspec()
+devtools::install_github("Displayr/flipAPI")
