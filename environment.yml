@@ -1,0 +1,6 @@
+name: ecology-prac
+dependencies:
+  - python
+  - pip:
+    - jupyter
+    - jupyterthemes
