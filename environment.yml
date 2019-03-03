@@ -4,7 +4,6 @@ channels:
 dependencies:
   - r-essentials 
   - python
-  - pandoc
   - pip:
     - jupyter
     - jupyterthemes
