@@ -5,7 +5,6 @@ dependencies:
   - r-essentials 
   - python
   - pandoc
-  - texlive-xetex
   - pip:
     - jupyter
     - jupyterthemes
