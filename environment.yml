@@ -1,6 +1,11 @@
-name: ecology-prac
+name: ecology-prac2
+channels:
+  r
 dependencies:
+  - r-essentials 
   - python
+  - pandoc
+  - texlive-xetex
   - pip:
     - jupyter
     - jupyterthemes
